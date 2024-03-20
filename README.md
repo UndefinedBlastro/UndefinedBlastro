@@ -27,7 +27,7 @@
 ### 🤝 Connect with me:
 <p align="center">
   <a href="https://discord.gg/ayra" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="120" height="40"/></a>
-  <a href="[https://ko-fi.com/mewdeko](https://ko-fi.com/undefinedblastro)" target="_blank"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="120" height="40"/></a>
+  <a href="https://ko-fi.com/undefinedblastro" target="_blank"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="120" height="40"/></a>
 </p>
 
 ---
