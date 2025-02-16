@@ -73,7 +73,7 @@ Hey! I'm a passionate developer who loves building cool things with **ForgeScrip
 ---
 
 ## 🔥 **Activity & Contributions**
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=UndefinedBlastro&theme=redical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=UndefinedBlastro)
 
 ---
 
