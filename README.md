@@ -47,15 +47,15 @@ Hey! I'm a passionate developer who loves building cool things with **ForgeScrip
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UndefinedBlastro&show_icons=true&theme=radical" />
 </td>
 <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UndefinedBlastro&theme=radical" />
 </td>
 </tr>
 </table>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=UndefinedBlastro&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
@@ -73,7 +73,7 @@ Hey! I'm a passionate developer who loves building cool things with **ForgeScrip
 ---
 
 ## 🔥 **Activity & Contributions**
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=redical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=UndefinedBlastro&theme=redical)
 
 ---
 
