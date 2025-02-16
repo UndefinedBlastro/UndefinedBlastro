@@ -1,28 +1,7 @@
-![UndefinedBlastro's GitHub stats](https://github-readme-stats.vercel.app/api?username=UndefinedBlastro&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=java)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndefinedBlastro&layout=compact&theme=radical)
-
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=UndefinedBlastro.UndefinedBlastro)
-
 ![Welcome](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hey there! 👋 Welcome to My GitHub</h1>
 
-```css
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⡿⠟⠛⠛⠛⠿⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠛⠁⠀⠀⠀⠀⠀⠀⠈⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⠀⠀⠀⢀⣀⡀⠀⠀⠀⣀⣀⠀⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
 
 ## 🚀 **About Me**
 Hey! I'm a passionate developer who loves building cool things with **ForgeScript, Node.js, and MongoDB**. I enjoy working on **TCG card game systems, Discord bots, and Minecraft plugins**. 
