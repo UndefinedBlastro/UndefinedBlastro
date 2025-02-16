@@ -6,10 +6,8 @@
 ## 🚀 **About Me**
 Hey! I'm a passionate developer who loves building cool things with **ForgeScript, Node.js, and MongoDB**. I enjoy working on **TCG card game systems, Discord bots, and Minecraft plugins**. 
 
-- 🎮 **Game Dev & Plugins Enthusiast**
-- 💾 **Backend Developer (MongoDB, Node.js, Express)**
-- ⚙️ **Loves Automation & APIs**
-- 🚀 **Building a Next-Gen TCG System**
+
+![Banner](https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif)
 
 ---
 
@@ -74,56 +72,5 @@ Hey! I'm a passionate developer who loves building cool things with **ForgeScrip
 
 💡 **Drop a star ⭐ on my repositories if you like my work!**
 
-
-
-
-
-
-
-
-# Hi there, I'm UndefinedBlastro! 🚀
-
-![Banner](https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif)
-
-## 🔥 About Me
-Hey! I'm UndefinedBlastro, a passionate developer who loves building **cool projects, automation tools, and high-performance applications**. I work on **Minecraft servers, Discord bots, TCG games, and more!** 💻✨
-
----
-
-## 🛠️ Tech Stack
-
-![TechStack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,vue,svelte,java,mongodb,mysql,postgres,docker,kubernetes,linux,nginx,git,github,,bash,aws,gcp,azure)
-
----
-
-## 📊 GitHub Stats & Contributions
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=UndefinedBlastro&show_icons=true&theme=radical"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=UndefinedBlastro&theme=radical&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=UndefinedBlastro&theme=radical)
-
----
-
-## 🏆 Contribution Snake 🐍
-
-![Snake Animation](https://github.com/UndefinedBlastro/UndefinedBlastro/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Let's Connect!
-- 🌎 Website: **[Coming Soon...]**
-- 🐦 Twitter: **[@YourTwitterHandle](https://twitter.com/YourTwitterHandle)**
-- 📩 Discord: **UndefinedBlastro#1234**
-
-⚡ _"Building the future, one line of code at a time."_
 
 
