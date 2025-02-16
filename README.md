@@ -77,6 +77,11 @@ Hey! I'm a passionate developer who loves building cool things with **ForgeScrip
 
 ---
 
+### 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github.com/UndefinedBlastro/UndefinedBlastro/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 💬 **Let's Connect!**
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
