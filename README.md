@@ -29,6 +29,7 @@ Hey! I'm a passionate developer who loves building cool things with **ForgeScrip
 
 ## 📊 **GitHub Stats**
 <table>
+  
 <tr>
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=UndefinedBlastro&show_icons=true&theme=radical" />
